@@ -6,7 +6,7 @@ with open('README.md', 'r') as readme_file:
 setup(
     name='simple-rlp',
     version='0.1.2',
-    packages=['rlp'],
+    packages=['simple_rlp'],
     url='https://github.com/SamuelHaidu/simple-rlp',
     license='MIT Custom',
     author='Samuel Haidu',
